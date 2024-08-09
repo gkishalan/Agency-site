@@ -1,0 +1,43 @@
+body{
+    margin: 50px 50px 0 50px;
+}
+.dev{
+    color: orange;
+    font-size: 3rem;
+    font-family: "Lato", sans-serif;
+}
+.title{
+    color: #aa81f3;
+    font-size: 5rem;
+    font-family: "Roboto", sans-serif;
+}
+.Creative{
+    color: midnightblue;
+}
+img{
+    height: 200px;
+    float: left;
+    /*margin-left: 50px;*/
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.card{
+    width: 45%;
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+}
+:left{
+    float: left;
+}
+.right{
+    float: right;
+    position: relative;
+    top: -288px;
+}
+footer{
+    text-align: right;
+    color: midnightblue;
+    position: fixed;
+    top: 860px;
+    left: 1730px;
+}
